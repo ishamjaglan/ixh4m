@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
  
  ![](https://github-readme-stats.vercel.app/api?username=ixh4m&show_icons=true&hide_border=true)
- ![View my Website](https://ixh4m.github.io)
+ 
+ <a href="https://ixh4m.github.io">**View my Website**</a>
