@@ -1,14 +1,10 @@
-### Hi there 👋
-<h1 align="center">Welcome to  👋</h1>
+<h1 align="center">Welcome to my profile 👋</h1>
 <p>
   <a href="https://twitter.com/ixh4m\_" target="_blank">
-    <img alt="Twitter: ixh4m\_" src="https://img.shields.io/twitter/follow/ixh4m\_.svg?style=social" />
+    <img alt="Twitter: ixh4m_" src="https://img.shields.io/twitter/follow/ixh4m\_.svg?style=social" />
   </a>
 </p>
 
-## Author
-
-👤 **ixh4m**
 
 * Website: https://ixh4m.github.io/
 * Twitter: [@ixh4m\_](https://twitter.com/ixh4m\_)
