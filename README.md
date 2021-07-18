@@ -1,7 +1,6 @@
-<h1 align="center">Hi I'm ixh4m (Isham Jaglan) 👋</h1>
 <p align=justify>
 <a href="https://ixh4m.github.io/" target="_blank">
-    <img align="center" alt="Twitter: ixh4m_" src="https://img.shields.io/badge/Website-ixh4m-white" />
+    <img align="justify" alt="Twitter: ixh4m_" src="https://img.shields.io/badge/Website-ixh4m-white" />
   </a>
  <a href="https://twitter.com/ixh4m_" target="_blank">
     <img align="center" alt="Twitter: ixh4m_" src="https://img.shields.io/twitter/follow/ixh4m_.svg?style=social" />
