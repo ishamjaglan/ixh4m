@@ -1,15 +1,15 @@
-<p align=justify>
+<p align="justify">
 <a href="https://ixh4m.github.io/" target="_blank">
     <img align="justify" alt="Twitter: ixh4m_" src="https://img.shields.io/badge/Website-ixh4m-white" />
   </a>
  <a href="https://twitter.com/ixh4m_" target="_blank">
-    <img align="center" alt="Twitter: ixh4m_" src="https://img.shields.io/twitter/follow/ixh4m_.svg?style=social" />
+    <img align="justify" alt="Twitter: ixh4m_" src="https://img.shields.io/twitter/follow/ixh4m_.svg?style=social" />
   </a>
  <a href="https://gitlab.com/ixh4m" target="_blank">
-    <img align="center" alt="Gitlab: ixh4m" src="https://img.shields.io/badge/GitLab-ixh4m-orange" />
+    <img align="justify" alt="Gitlab: ixh4m" src="https://img.shields.io/badge/GitLab-ixh4m-orange" />
   </a>
  <a href="https://linkedin.com/in/ishamjaglan" target="_blank">
-    <img align="center" alt="LinkedIn: Isham Jaglan" src="https://img.shields.io/badge/LinkedIn-ishamjaglan-blue" />
+    <img align="justify" alt="LinkedIn: Isham Jaglan" src="https://img.shields.io/badge/LinkedIn-ishamjaglan-blue" />
   </a>
 </p>
 
