@@ -6,12 +6,16 @@
 </p>
 
 
-* Website: https://ixh4m.github.io/
-* Twitter: [@ixh4m\_](https://twitter.com/ixh4m\_) <a href="https://twitter.com/ixh4m_" target="_blank">
+* Website: https://ixh4m.github.io/ 
+* Twitter: <a href="https://twitter.com/ixh4m_" target="_blank">
     <img alt="Twitter: ixh4m_" src="https://img.shields.io/twitter/follow/ixh4m_.svg?style=social" />
   </a>
-* Github: [@ixh4m](https://github.com/ixh4m)
-* LinkedIn: [@ishamjaglan](https://linkedin.com/in/ishamjaglan)
+* GitLab: <a href="https://gitlab.com/ixh4m" target="_blank">
+    <img alt="Gitlab: ixh4m" src="https://img.shields.io/gitlab/follow/ixh4m_.svg?style=social" />
+  </a>
+* LinkedIn: <a href="https://linkedin.com/in/ishamjaglan" target="_blank">
+    <img alt="LinkedIn: Isham Jaglan" src="https://img.shields.io/linkedin/follow/ishamjaglan.svg?style=social" />
+  </a>
 
 
 <!--
