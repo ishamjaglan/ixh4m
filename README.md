@@ -1,16 +1,16 @@
 <h1 align="center">Hi I'm ixh4m (Isham Jaglan) 👋</h1>
 <p align=justify>
 <a href="https://ixh4m.github.io/" target="_blank">
-    <img alt="Twitter: ixh4m_" src="https://img.shields.io/badge/Website-ixh4m-white" />
+    <img align="center" alt="Twitter: ixh4m_" src="https://img.shields.io/badge/Website-ixh4m-white" />
   </a>
  <a href="https://twitter.com/ixh4m_" target="_blank">
-    <img alt="Twitter: ixh4m_" src="https://img.shields.io/twitter/follow/ixh4m_.svg?style=social" />
+    <img align="center" alt="Twitter: ixh4m_" src="https://img.shields.io/twitter/follow/ixh4m_.svg?style=social" />
   </a>
  <a href="https://gitlab.com/ixh4m" target="_blank">
-    <img alt="Gitlab: ixh4m" src="https://img.shields.io/badge/GitLab-ixh4m-orange" />
+    <img align="center" alt="Gitlab: ixh4m" src="https://img.shields.io/badge/GitLab-ixh4m-orange" />
   </a>
  <a href="https://linkedin.com/in/ishamjaglan" target="_blank">
-    <img alt="LinkedIn: Isham Jaglan" src="https://img.shields.io/badge/LinkedIn-ishamjaglan-blue" />
+    <img align="center" alt="LinkedIn: Isham Jaglan" src="https://img.shields.io/badge/LinkedIn-ishamjaglan-blue" />
   </a>
 </p>
 
@@ -29,5 +29,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  ![ixh4m's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ixh4m&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-    
+<a href="https://github.com/ixh4m">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ixh4m&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
+<a href="https://github.com/ixh4m">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ixh4m&layout=compact&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ixh4m&layout=compact&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ixh4m)
