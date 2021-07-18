@@ -1,4 +1,20 @@
 ### Hi there 👋
+<h1 align="center">Welcome to  👋</h1>
+<p>
+  <a href="https://twitter.com/ixh4m\_" target="_blank">
+    <img alt="Twitter: ixh4m\_" src="https://img.shields.io/twitter/follow/ixh4m\_.svg?style=social" />
+  </a>
+</p>
+
+## Author
+
+👤 **ixh4m**
+
+* Website: https://ixh4m.github.io/
+* Twitter: [@ixh4m\_](https://twitter.com/ixh4m\_)
+* Github: [@ixh4m](https://github.com/ixh4m)
+* LinkedIn: [@ishamjaglan](https://linkedin.com/in/ishamjaglan)
+
 
 <!--
 **ixh4m/ixh4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
