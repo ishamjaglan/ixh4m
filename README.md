@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to my profile 👋</h1>
 <p>
-  <a href="https://twitter.com/ixh4m\_" target="_blank">
+  <a href="https://twitter.com/ixh4m_" target="_blank">
     <img alt="Twitter: ixh4m_" src="https://img.shields.io/twitter/follow/ixh4m\_.svg?style=social" />
   </a>
 </p>
