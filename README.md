@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<centre>
  ![ixh4m's GitHub stats](https://github-readme-stats.vercel.app/api/?username=ixh4m&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+    
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ixh4m&layout=compact)](https://github.com/ixh4m)
