@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
+
 <a href="https://github.com/ixh4m">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=ixh4m&show_icons=true&hide_border=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
@@ -45,4 +45,3 @@ Here are some ideas to get you started:
 <a href="https://www.buymeacoffee.com/ixh4m">
     <img alt="BuyMeACoffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
-</p>
