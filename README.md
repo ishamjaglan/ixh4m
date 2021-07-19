@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=ixh4m+-+Isham+Jaglan;I'm+a+Student;I'm+a+Pentester)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=ixh4m+-+Isham+Jaglan;I'm+a+Student;I'm+a+Pentester)](https://ixh4m.github.io)
 <p align="justify">
 <a href="https://ixh4m.github.io/" target="_blank">
     <img align="justify" alt="Website: ixh4m_" src="https://img.shields.io/badge/Website-ixh4m-white" />
