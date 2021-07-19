@@ -13,6 +13,7 @@
     <img align="justify" alt="Twitter: ixh4m_" src="https://img.shields.io/twitter/follow/ixh4m_.svg?style=social" />
   </a>
 </p>
+![](https://gitwar.herokuapp.com/badge?username=ixh4m&style=flat-square)
 
 <!--
 **ixh4m/ixh4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
