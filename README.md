@@ -13,9 +13,9 @@
     <img alt="Twitter" src="https://img.shields.io/badge/ixh4m-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
 </p>
-
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <!--
+<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 **ixh4m/ixh4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
